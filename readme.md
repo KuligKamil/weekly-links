@@ -1,3 +1,15 @@
+# Weekly Links
+## Table of Contents
+
+1. [Git](#git)
+2. [HTTP](#http)
+3. [Patterns](#patterns)
+4. [Stack](#stack)
+5. [Database](#database)
+6. [Tests](#tests)
+7. [Python](#python)
+8. [Microsoft](#microsoft-tips)
+
 Agile Manifesto https://agilemanifesto.org/
 
 Roadmap examples https://roadmap.sh/
@@ -13,6 +25,14 @@ https://www.atlassian.com/git/tutorials
 Markdown cheatsheet for git readme.md
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Connecting to GitHub with SSH
+
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
+https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/
+
+https://dev.to/bdbch/setting-up-ssh-and-git-on-windows-10-2khk
+
 ## HTTP
 
 [developer.mozilla.org/en-US/docs/Web/HTTP/Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
@@ -21,12 +41,15 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 postman + http status [https://blog.postman.com/http-cats-learn-http-status-codes/](https://blog.postman.com/http-cats-learn-http-status-codes/)
-
  
 
 ## Patterns
 
 ### Design patterns https://refactoring.guru/design-patterns
+
+### Architectural Patterns
+Active_record_pattern https://en.wikipedia.org/wiki/Active_record_pattern
+
 
 ### Selenium
 
@@ -56,13 +79,16 @@ https://dbader.org/blog/writing-a-dsl-with-python
 
  
 
-## Stack:
+## Stack
+
+### Development patterns https://12factor.net/
 
 ### Python 3 https://docs.python.org/3/
  
 
 ### FastAPI https://fastapi.tiangolo.com/
- 
+
+### starlette https://www.starlette.io/
 
 ### SQLAlchemy https://www.sqlalchemy.org/
  
@@ -84,4 +110,44 @@ https://dbader.org/blog/writing-a-dsl-with-python
 
 ### Vue https://vuejs.org/
 
- 
+## Database
+ACID https://en.wikipedia.org/wiki/ACID
+
+## Tests
+Free Online Book Test-Driven Web Development with Python
+https://www.obeythetestinggoat.com/pages/book.html
+
+#### Selenium
+Tips CSS selectors
+https://saucelabs.com/resources/articles/selenium-tips-css-selectors
+
+Fun game to learn and practice CSS selectors.
+https://flukeout.github.io/
+
+## Python 
+### requirements.txt
+
+create/update
+    
+    pip3 freeze > requirements.txt
+
+https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
+
+install
+
+    pip3 install -r requirements.txt
+
+Pycharm & requirements.txt
+https://www.jetbrains.com/help/pycharm/managing-dependencies.html
+
+
+### iteration double comprehension
+
+https://www.kite.com/python/answers/how-to-do-a-double-iteration-with-a-list-comprehension-in-python
+
+## Microsoft Tips
+### Outlook
+
+[Create a contact group or distribution list in Outlook for PC](https://support.microsoft.com/en-us/office/create-a-contact-group-or-distribution-list-in-outlook-for-pc-88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023)
+
+

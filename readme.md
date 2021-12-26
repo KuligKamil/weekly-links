@@ -9,6 +9,7 @@
 6. [Tests](#tests)
 7. [Python](#python)
 8. [Microsoft](#microsoft-tips)
+9. [Linux](#linux)
 
 Agile Manifesto https://agilemanifesto.org/
 
@@ -150,4 +151,8 @@ https://www.kite.com/python/answers/how-to-do-a-double-iteration-with-a-list-com
 
 [Create a contact group or distribution list in Outlook for PC](https://support.microsoft.com/en-us/office/create-a-contact-group-or-distribution-list-in-outlook-for-pc-88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023)
 
+## Linux
+### vim
+#### Neovim
+Neovim is a project that seeks to aggressively refactor Vim  https://github.com/neovim/neovim
 

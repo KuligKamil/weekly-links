@@ -146,6 +146,10 @@ https://www.jetbrains.com/help/pycharm/managing-dependencies.html
 
 https://www.kite.com/python/answers/how-to-do-a-double-iteration-with-a-list-comprehension-in-python
 
+
+### pyupgrade 
+A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language. https://github.com/asottile/pyupgrade
+
 ## Microsoft Tips
 ### Outlook
 

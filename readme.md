@@ -10,6 +10,7 @@
 7. [Python](#python)
 8. [Microsoft](#microsoft-tips)
 9. [Linux](#linux)
+10. [Youtube-Twitch](#youtube-twitch)
 
 Agile Manifesto https://agilemanifesto.org/
 
@@ -160,3 +161,8 @@ A tool (and pre-commit hook) to automatically upgrade syntax for newer versions 
 #### Neovim
 Neovim is a project that seeks to aggressively refactor Vim  https://github.com/neovim/neovim
 
+## youtube twitch
+### anthonywritescode
+pre-commit (creator), babi (creator), flake8 (primary maintainer), pytest (core developer), tox (core developer), and many more!
+https://www.twitch.tv/anthonywritescode
+https://www.youtube.com/anthonywritescode

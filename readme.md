@@ -151,6 +151,13 @@ https://www.kite.com/python/answers/how-to-do-a-double-iteration-with-a-list-com
 ### pyupgrade 
 A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language. https://github.com/asottile/pyupgrade
 
+
+### Brython - python in browser
+Brython (Browser Python) is an implementation of Python 3 running in the browser, with an interface to the DOM elements and events.
+https://github.com/brython-dev/brython
+
+
+
 ## Microsoft Tips
 ### Outlook
 
